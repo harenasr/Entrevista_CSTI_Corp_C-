@@ -7,7 +7,7 @@ namespace Entrevista_CSTI_Corp_C
     {
         static void Main()
         {
-            SerialPort serialPort = new SerialPort("COM1", 9600, Parity.None, 8, StopBits.One);
+            SerialPort serialPort = new SerialPort("COM5", 9600, Parity.None, 8, StopBits.One);
 
             try
             {
