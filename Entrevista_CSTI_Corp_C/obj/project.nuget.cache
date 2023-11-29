@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wmAOfft1JaOv2/ydOnq7eQK7xcPWPCbS1YZeE5N4KRXO9KgB831hnZYL/vaxPvV+CN5+jCqGNn2gf3W4i6T6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Entelgy\\source\\repos\\Entrevista_CSTI_Corp_C\\Entrevista_CSTI_Corp_C\\Entrevista_CSTI_Corp_C.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Entelgy\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Entelgy\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Entelgy\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Entelgy\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Entelgy\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Entelgy\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Entelgy\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
